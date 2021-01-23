@@ -1,16 +1,15 @@
-### Hi there 👋
+### Root@Gama ~: 
 
-<!--
-**root0gama/root0gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  * ✨ I wait to do my exam for 42 School.
+  * ⚜️ I just want to learn some new things.
+  * ❌ I don't do some cyber security and i don't want to know about your "informatic skills".
+  * 🌑 I don't want to join your "super cool projet".
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<H2>Some Skills :</h2>
+<p align="left"><a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="bootstrap" width="20" height="20"/></a>
+<a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="cplusplus" width="20" height="20"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" alt="cplusplus" width="20" height="20"/> </a>
+
+
+![W](https://i.pinimg.com/originals/9b/b2/10/9bb210218c5c110a909b218865a64209.gif)
