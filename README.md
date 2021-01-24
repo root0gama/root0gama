@@ -4,6 +4,7 @@
   * ⚜️ I just want to learn some new things.
   * ❌ I don't do some cyber security and i don't want to know about your "informatic skills".
   * 🌑 I don't want to join your "super cool projet".
+  * 🔨 I get some modeling skills ( Blender / 3dsMax )
 
 
 <H2>Some Skills :</h2>
