@@ -1,10 +1,10 @@
 ### Root@Gama ~: 
-
-  * ✨ I wait to do my exam for 42 School.
+.
   * ⚜️ I just want to learn some new things.
   * ❌ I don't do some cyber security and i don't want to know about your "informatic skills".
   * 🌑 I don't want to join your "super cool projet".
   * 🔨 I got some modeling skills ( Blender / 3dsMax )
+  * 📧 Join my super discord -> discord.gg/uAXebEC
 
 
 <H2>Some Skills :</h2>
