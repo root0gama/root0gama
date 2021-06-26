@@ -14,4 +14,6 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root0gama&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root0gama&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
