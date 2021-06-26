@@ -13,4 +13,5 @@
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" alt="cplusplus" width="20" height="20"/> </a>
 
 
-![W](https://i.pinimg.com/originals/9b/b2/10/9bb210218c5c110a909b218865a64209.gif)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root0gama&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
