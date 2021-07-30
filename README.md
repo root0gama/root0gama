@@ -10,7 +10,6 @@
 <H2>Some Skills :</h2>
 <p align="left"><a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="bootstrap" width="20" height="20"/></a>
 <a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="cplusplus" width="20" height="20"/> </a>
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png" alt="cplusplus" width="20" height="20"/> </a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root0gama&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
