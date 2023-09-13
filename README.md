@@ -7,10 +7,8 @@
   * 📧 Join my super discord -> discord.gg/uAXebEC
 
 
-<H2>Some Skills :</h2>
-<p align="left"><a href="https://www.lua.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="bootstrap" width="20" height="20"/></a>
-<a href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="cplusplus" width="20" height="20"/> </a>
-
+# 💻 :
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=root0gama&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=root0gama&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
